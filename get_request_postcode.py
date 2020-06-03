@@ -1,7 +1,10 @@
+import requests
+
 # first we need a way talk to http
 # we will use the requests
 # the same way we can import math or time, we can import requests
-import requests
+
+
 
 # import time
 #
