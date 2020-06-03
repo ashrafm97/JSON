@@ -7,13 +7,19 @@ Complete this README.md
 ###What is an API?
 API stands for application program interface. It specifies how software components should interact.
 
-What is JSON?
-HTTP GET VS POST?
-Main status codes?
+##What is JSON?
+##HTTP GET VS POST?
+##Main status codes?
+•200
+* 400
+* 404
+* 500
+
+
 -----------////------------
 
-Package managers
-what is it?
+###Package managers
+what are they?
 
 list the package managers
 Please go find the name of the package managers for:
